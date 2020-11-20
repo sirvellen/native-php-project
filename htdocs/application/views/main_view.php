@@ -1,0 +1,11 @@
+<h1>Добро пожаловать!</h1>
+<p>
+    <img src="/images/kit.jpg" align="left" >
+    <a href="/" class="btn btn-dark">Сайт имени меня</a>
+<p>Я вставил сюда фотку кота, потому что тут должна быть какая-то фотка по темплейту.
+    Это не мой кот, я просто взял первую картинку из гугла.
+    Этого текста не хватает, потому можете прочесть отрывок из поэмы Шекспира.<br>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempus urna et pharetra pharetra massa massa. Dui accumsan sit amet nulla facilisi morbi. Sollicitudin nibh sit amet commodo nulla facilisi. Amet tellus cras adipiscing enim eu turpis egestas. Nibh cras pulvinar mattis nunc sed blandit. Adipiscing elit duis tristique sollicitudin. Adipiscing enim eu turpis egestas pretium aenean. Arcu cursus euismod quis viverra nibh cras pulvinar mattis. Bibendum enim facilisis gravida neque convallis a cras. Eget est lorem ipsum dolor sit amet consectetur adipiscing. Volutpat ac tincidunt vitae semper. Enim nec dui nunc mattis enim ut tellus elementum. Convallis tellus id interdum velit laoreet id donec. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus. Dictum sit amet justo donec enim diam vulputate ut pharetra. Dapibus ultrices in iaculis nunc sed augue lacus viverra.
+
+    Senectus et netus et malesuada fames ac turpis egestas maecenas. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Integer quis auctor elit sed vulputate mi sit amet mauris. Sit amet porttitor eget dolor morbi non arcu. Tortor at risus viverra adipiscing at in tellus integer feugiat. Risus commodo viverra maecenas accumsan lacus vel. Venenatis cras sed felis eget velit aliquet. Lectus mauris ultrices eros in cursus. Ut placerat orci nulla pellentesque dignissim. Id diam maecenas ultricies mi eget mauris. Vel eros donec ac odio tempor orci dapibus. In egestas erat imperdiet sed euismod nisi porta. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Id faucibus nisl tincidunt eget nullam non. Sed tempus urna et pharetra pharetra massa massa ultricies. Nunc sed blandit libero volutpat sed cras. Mus mauris vitae ultricies leo integer malesuada nunc vel. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Erat velit scelerisque in dictum non.
+</p>

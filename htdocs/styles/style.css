@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+.mr-2 {
+    margin-right: 2px;
+}
+.news {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: black;
+}
+    .news .row:nth-child(3) {
+        display: flex;
+        justify-content: space-between;
+    }
