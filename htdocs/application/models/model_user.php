@@ -21,6 +21,7 @@ class Model_User extends Model
         }
             return NULL;
     }
+
     public function EditRole($role, $id, $email)
     {
         if ($email != false) {

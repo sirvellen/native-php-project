@@ -8,11 +8,11 @@ class Model_News extends Model
         return $result;
     }
 
-    public function add($title, $data ,$text, $author)
+    public function add($title, $data ,$text, $author, $image)
     {
         $title = mysqli_escape_string($this->link, $title);
         $text = mysqli_escape_string($this->link, $text);
-        $query = "INSERT INTO `news` (`title`, `create_time` ,`text`, `creator_id`) VALUES ('$title', '$data', '$text', '$author')";
+        $query = "INSERT INTO `news` (`title`, `create_time` ,`text`, `creator_id`, `image_name`) VALUES ('$title', '$data', '$text', '$author', '$image')";
         $result = mysqli_query($this->link, $query);
         return $result;
     }

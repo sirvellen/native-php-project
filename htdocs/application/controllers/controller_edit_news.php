@@ -70,6 +70,7 @@ class Controller_Edit_News extends Controller
             $author = filter_var(trim($_POST['author'], FILTER_SANITIZE_STRING));
             $date =  filter_var(trim($_POST['date'], FILTER_SANITIZE_STRING));
 
+
             $this->model->add($title, $date, $text, $author);
         }
         header('Location: /news/index/');

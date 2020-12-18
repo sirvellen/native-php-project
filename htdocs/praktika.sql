@@ -109,8 +109,8 @@ CREATE TABLE `portfolio` (
   `url` text COLLATE utf8_bin DEFAULT NULL,
   `description` text COLLATE utf8_bin DEFAULT NULL,
   `creator_id` int(11) NOT NULL,
-  `start_year` text COLLATE utf8_bin NOT NULL DEFAULT current_timestamp(),
-  `end_year` timestamp NULL DEFAULT NULL
+  `start_year` text COLLATE utf8_bin NULL,
+  `end_year` timestamp NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 --

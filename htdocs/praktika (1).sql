@@ -56,7 +56,7 @@ CREATE TABLE `users` (
   `username` text COLLATE utf8_bin DEFAULT NULL,
   `password` text COLLATE utf8_bin DEFAULT NULL,
   `email` text COLLATE utf8_bin DEFAULT NULL,
-  `role` text COLLATE utf8_bin DEFAULT 'false'
+  `role` text COLLATE utf8_bin
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 --

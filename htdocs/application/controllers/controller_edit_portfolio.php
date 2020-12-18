@@ -35,6 +35,8 @@ class Controller_Edit_Portfolio extends Controller
                     "'$start_year', '$url', '$description', '$creator'"
                 );
                 header("Location: /edit_portfolio");
+            } else {
+                echo 'Введены неверные данные <br> <a href="javascript:history.back()">Вернуться</a>';
             }
         }
     }

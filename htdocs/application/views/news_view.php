@@ -45,7 +45,7 @@ if (isset($_SESSION['user_id'])) {?>
           </table>
         <?php } }?>
       <hr>
-        <div class=""><textarea class="w-100 h-auto" readonly style="resize: none; border: none; outline: none; cursor: default;"><?= $row['text'];?></textarea></div><hr>
+        <div class=""><img src="/upload/<?= $row['image_name'] ?>" alt="" height="250px"><textarea class="w-100 h-auto" readonly style="resize: none; border: none; outline: none; cursor: default;"><?= $row['text'];?></textarea></div><hr>
       <div class=""><h6><?= $author->get_author($row['creator_id']);?></h6></div>
   </div>
 
